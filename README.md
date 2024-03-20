@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qzhang2022
 - 👀 
-- 🌱 I’m currently learning Python
-
+- 🌱 
 
 <!---
 qzhang2022/qzhang2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
